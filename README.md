@@ -1,0 +1,2 @@
+# multilingual-movie-subs
+Fix the lack of direct, matching subtitles for movies translated from English into foreign languages (for example, Spanish) by utilizing state-of-the-art tools to generate the transcription and turn into valid subtitles on demand.
